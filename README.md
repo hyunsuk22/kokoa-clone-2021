@@ -1,3 +1,3 @@
 # KoKoa Clone 2021 Update
 
-CSS 개좋음.
+HTML & CSS 개재밌음
